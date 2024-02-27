@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @TeoGal
+- 👀 I’m interested in Deep learning, Geneartive AI, time series forecasting.
+- 🌱 I’m currently learning Generative Adversarial Networks, Machine Learning models for time series forecasting.
+- 💞️ I’m looking to collaborate on ML projects.
+- 📫 How to reach me: matteo.baruc@gmail.com
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: I "almost" got selected as an astronaut.
